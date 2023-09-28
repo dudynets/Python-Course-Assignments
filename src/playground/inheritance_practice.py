@@ -155,13 +155,11 @@ vehicles = [
     Bus("Volvo", 800, 8, 8000, 60, 40),
 ]
 
-
 # Printing all vehicles
 print("=== ALL VEHICLES ===\n")
 for vehicle in vehicles:
     print(vehicle)
     print()
-
 
 # Sort by engine_power
 print("\n\n=== VEHICLES SORTED BY ENGINE POWER ===\n")
@@ -169,7 +167,6 @@ sorted_vehicles = sorted(vehicles, key=lambda vehicle: vehicle.engine_power)
 for vehicle in sorted_vehicles:
     print(vehicle)
     print()
-
 
 # Trucks sorted by carrying_capacity
 print("\n\n=== TRUCKS SORTED BY CARRYING CAPACITY ===\n")
@@ -181,7 +178,6 @@ sorted_trucks = sorted(
 for truck in sorted_trucks:
     print(truck)
     print()
-
 
 # Cars sorted by number_of_sitting_seats
 print("\n\n=== CARS SORTED BY NUMBER OF SITTING SEATS ===\n")
