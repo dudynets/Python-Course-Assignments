@@ -1,0 +1,31 @@
+isbn,book_title,author_surname,book_price
+1,Gone with the Wind,Mitchell,100
+2,Jane Eyre,Bronte,200
+3,The Hobbit,Tolkien,300
+4,The Lord of the Rings,Tolkien,400
+5,The Fellowship of the Ring,Tolkien,500
+6,The Two Towers,Tolkien,600
+7,The Return of the King,Tolkien,700
+8,The Catcher in the Rye,Salinger,800
+9,To Kill a Mockingbird,Lee,900
+10,Nineteen Eighty-Four,Orwell,1000
+11,The Great Gatsby,Fitzgerald,1100
+12,The Adventures of Huckleberry Finn,Twain,1200
+13,The Adventures of Tom Sawyer,Twain,1300
+14,On the Origin of Species,Darwin,1400
+15,Pride and Prejudice,Austen,1500
+16,The Alchemist,Coelho,3100
+17,A Tale of Two Cities,Dickens,1700
+18,Les Misérables,Hugo,1800
+19,The Old Man and the Sea,Hemingway,1900
+20,Animal Farm,Orwell,2000
+21,The Da Vinci Code,Brown,2100
+22,Bridget Jones's Diary,Fielding,2200
+23,The Color Purple,Walker,2300
+24,The Hunger Games,Collins,2400
+25,The Kite Runner,Hosseini,2500
+26,The Girl with the Dragon Tattoo,Larsson,2600
+27,The Help,Stockett,2700
+28,The Secret,Byrne,2800
+29,A Game of Thrones,Martin,2900
+30,The Fault in Our Stars,Green,3000
