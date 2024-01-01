@@ -1,0 +1,22 @@
+client_id,product_name,product_price,product_quantity
+1,Laptop,1200,2
+2,Headphones,150,5
+3,Smartphone,800,3
+4,External Hard Drive,100,2
+5,Wireless Mouse,30,10
+1,Tablet,400,1
+2,Keyboard,50,3
+3,Smartwatch,200,1
+4,USB Flash Drive,20,5
+5,Printer,300,1
+1,Monitor,300,1
+2,Webcam,80,2
+3,Router,120,1
+4,Desk Chair,150,1
+5,Desk Lamp,25,4
+1,Graphics Card,500,1
+2,Gaming Mouse,70,2
+3,Wireless Router,80,1
+4,External SSD,150,1
+5,Bluetooth Speaker,60,3
+5,Bluetooth Speaker,60,1

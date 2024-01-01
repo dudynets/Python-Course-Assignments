@@ -1,0 +1,22 @@
+reader_id,book_author,book_title,book_genre
+1,J.K. Rowling,Harry Potter and the Philosopher's Stone,Fantasy
+1,J.K. Rowling,Harry Potter and the Chamber of Secrets,Fantasy
+2,George Orwell,1984,Dystopian
+3,Jane Austen,Pride and Prejudice,Romance
+4,Harper Lee,To Kill a Mockingbird,Drama
+5,Agatha Christie,Murder on the Orient Express,Mystery
+1,Ernest Hemingway,The Old Man and the Sea,Adventure
+2,F. Scott Fitzgerald,The Great Gatsby,Classic
+3,Arthur Conan Doyle,Sherlock Holmes: The Hound of the Baskervilles,Crime
+4,J.R.R. Tolkien,The Lord of the Rings,Fantasy
+5,Mark Twain,The Adventures of Tom Sawyer,Adventure
+1,Charlotte Brontë,Jane Eyre,Romance
+2,Aldous Huxley,Brave New World,Science Fiction
+3,Leo Tolstoy,War and Peace,Historical Fiction
+4,Agatha Christie,And Then There Were None,Mystery
+5,George R.R. Martin,A Game of Thrones,Fantasy
+1,Charles Dickens,Great Expectations,Classic
+2,Mary Shelley,Frankenstein,Horror
+3,Orson Scott Card,Ender's Game,Science Fiction
+4,F. Scott Fitzgerald,The Great Gatsby,Classic
+5,Ray Bradbury,Fahrenheit 451,Dystopian
